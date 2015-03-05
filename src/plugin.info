@@ -1,0 +1,11 @@
+main : superdisk.monkeysplugin.Main
+
+name : 12Monkeys Plugin
+authors : Haraldk - Code, Superdisk - Packaging
+
+version : 0.16.0-Dev
+updated : 04-04-2015
+
+min-spade-version : 0.16.0-Dev
+
+description : A plugin adding helpuful exporters and importers.
